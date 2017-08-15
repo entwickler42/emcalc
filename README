@@ -1,0 +1,21 @@
+--------------------------------------------------------------------
+EMCalc version 0.0.1
+--------------------------------------------------------------------
+
+Usage
+-----
+1. download emath from www.cute-cube.com
+2. edit emcalc.pro and update "include($$PWD/../emath/emath.pri)"
+   according to your installation
+3. build
+
+Changes
+-------
+* initial version
+
+You'll find the newest version of EMCalc at:
+http://www.cute-cube.com
+
+--------------------------------------------------------------------
+www.cute-cube.com                                 2011-2021 CuteCube
+--------------------------------------------------------------------

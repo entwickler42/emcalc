@@ -1,0 +1,9 @@
+<RCC>
+    <qresource prefix="/">
+        <file alias="border_results">res/border_results.png</file>
+        <file alias="border_screen">res/border_screen.png</file>
+        <file alias="button_down">res/button_round_metal_blue_down.png</file>
+        <file alias="button_up">res/button_round_metal_blue_up.png</file>
+        <file alias="ResultFont">res/LCDPHONE.TTF</file>
+    </qresource>
+</RCC>
